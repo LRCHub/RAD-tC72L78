@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "真夏の通り雨",
+  "base_artist": "Hikaru Utada",
+  "createdAt": "2026-03-11T21:19:44.628729Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "真夏の通り雨",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/01_真夏の通り雨_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "真夏の通り雨",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/02_真夏の通り雨_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Manatsu no Tooriame [真夏の通り雨]",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/03_Manatsu_no_Tooriame_[真夏の通り雨]_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "真夏の通り雨",
+      "artist": "Utada Hikaru",
+      "has_synced": true,
+      "path": "select/04_真夏の通り雨_Utada_Hikaru.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "真夏の通り雨",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/05_真夏の通り雨_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "真夏の通り雨",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/06_真夏の通り雨_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "真夏の通り雨",
+      "artist": "宇多田光",
+      "has_synced": true,
+      "path": "select/07_真夏の通り雨_宇多田光.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "真夏の通り雨",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/08_真夏の通り雨_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "真夏の通り雨",
+      "artist": "Hikaru Utada (宇多田ヒカル)",
+      "has_synced": false,
+      "path": "select/09_真夏の通り雨_Hikaru_Utada_(宇多田ヒカル).txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "真夏の通り雨",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_01_真夏の通り雨_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "真夏の通り雨",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_02_真夏の通り雨_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "真夏の通り雨",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_03_真夏の通り雨_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "真夏の通り雨",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_04_真夏の通り雨_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "真夏の通り雨",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_05_真夏の通り雨_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "真夏の通り雨",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_06_真夏の通り雨_宇多田_ヒカル.txt"
+    }
+  ]
+}
